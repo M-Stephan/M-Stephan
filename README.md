@@ -66,7 +66,7 @@
 ## 📬 Me retrouver
 
 - 💬 **Discord** : `neodarkcrow.`
-- 📧 **Mail** : [martin.stephahn9218@gmail.com](mailto:martin.stephahn9218@gmail.com)  
+- 📧 **Mail** : [martin.stephahn9218@gmail.com](mailto:martin.stephan9218@gmail.com)  
 - 🧑‍💻 **GitHub** : [M-Stephan](https://github.com/M-Stephan)
 ---
 
