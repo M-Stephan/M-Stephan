@@ -28,12 +28,11 @@
     <li>xUnit</li>
     <li>Spectre.Console</li>
     <li>Scalar</li>
-    <li>Docker</li>
-    <li>Git</li>
-    <li>GitHub</li>
+    <li>Docker | Docker-Compose</li>
+    <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>GitHub Actions</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
-    <li>Vite</li>
+    <li>Vite, React, DOM, Razor, Blazor</li>
     <li>Xampp / MariaDB / heidi sql / phpMyAdmin</li>
     <li>ERD / MCD / MPD</li>
   </ul>
