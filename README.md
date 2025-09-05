@@ -19,8 +19,7 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
-    <li>PHP Vanilla</li>
-    <li>Java (syntaxe basique)</li>
+    <li>Java <i>(base scolaire)</i></li>
   </ul>
 </details>
 
