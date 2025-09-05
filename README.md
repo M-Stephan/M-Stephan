@@ -27,7 +27,6 @@
   <ul>
     <li>xUnit</li>
     <li>Spectre.Console</li>
-    <li>Scalar</li>
     <li>Docker | Docker-Compose</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>GitHub Actions</li>
