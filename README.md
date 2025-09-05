@@ -33,6 +33,7 @@
     <li>Git</li>
     <li>GitHub</li>
     <li>GitHub Actions</li>
+    <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite</li>
     <li>Xampp / MariaDB / heidi sql / phpMyAdmin</li>
     <li>ERD / MCD / MPD</li>
