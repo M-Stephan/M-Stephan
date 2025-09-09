@@ -19,7 +19,6 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
-    <li>Java <i>(base scolaire)</i></li>
   </ul>
 </details>
 
@@ -32,7 +31,7 @@
     <li>GitHub Actions</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
-    <li>Xampp / MariaDB / heidi sql / phpMyAdmin</li>
+    <li>Xampp / MariaDB / heidi sql / phpMyAdmin / SQL Server</li>
     <li>ERD / MCD / MPD</li>
   </ul>
 </details>
@@ -45,7 +44,7 @@
     <li>ox_lib</li>
     <li>ox_inventory</li>
     <li>Pterodactyl</li>
-    <li>Debian 11</li>
+    <li>Debian 11 / Ubuntu 22</li>
     <li>TxAdmin</li>
   </ul>
 </details>
@@ -54,7 +53,7 @@
 
 ## 🎯 Objectifs
 
-- 💪 Devenir développeur **full-stack** polyvalent et passionné
+- 💪 Développeur **full-stack** polyvalent et passionné
 - 🎮 Travailler dans le **jeu vidéo**, le **développement logiciel**, ou un domaine qui me fait vibrer
 - 🚀 Apprendre sans relâche (même à 2h du mat 😅)
 - 💼 Faire carrière dans l’univers du **code** et contribuer à des projets open source
