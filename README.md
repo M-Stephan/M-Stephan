@@ -19,6 +19,9 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
+    <li>Python</li>
+    <li>Base php</li>
+    <li>Base Java</li>
   </ul>
 </details>
 
@@ -28,7 +31,6 @@
     <li>Spectre.Console</li>
     <li>Docker | Docker-Compose</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
-    <li>GitHub Actions</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
     <li>Xampp / MariaDB / heidi sql / phpMyAdmin / SQL Server</li>
@@ -36,7 +38,7 @@
   </ul>
 </details>
 
-<details><summary><strong>FiveM & Systèmes</strong></summary>
+<details><summary><strong>FiveM & Systèmes (Hobby)</strong></summary>
   <ul>
     <li>ESX Legacy</li>
     <li>OverExtended | (ox_lib, ox_inventory)</li>
@@ -60,7 +62,8 @@
 
 ---
 
-## 📬 Me retrouver
+## 📬 En savoir plus
+- Information: Vous pourrez retrouver la totalité du Track BeCode [ici](https://github.com/M-Stephan/CRL-Wozniak-1) et les réponses (ce que j'ai fait) [ici](https://github.com/M-Stephan/CRL-Wozniak-1-Answers)
 
 - 💬 **Discord** : `neodarkcrow.`
 - 📧 **Mail** : [martin.stephahn9218@gmail.com](mailto:martin.stephan9218@gmail.com)  
