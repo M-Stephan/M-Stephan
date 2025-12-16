@@ -66,7 +66,7 @@
 - Information: Vous pourrez retrouver la totalité du Track BeCode [ici](https://github.com/M-Stephan/CRL-Wozniak-1) et les réponses (mon travail) [ici](https://github.com/M-Stephan/CRL-Wozniak-1-Answers)
 
 - 💬 **Discord** : `neodarkcrow.`
-- 📧 **Mail** : [martin.stephahn9218@gmail.com](mailto:martin.stephan9218@gmail.com)  
+- 📧 **Mail** : [martin.stephan9218@gmail.com](mailto:martin.stephan9218@gmail.com)  
 - 🧑‍💻 **GitHub** : [M-Stephan](https://github.com/M-Stephan)
 ---
 
