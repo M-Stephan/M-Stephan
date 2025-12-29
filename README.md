@@ -23,6 +23,7 @@
     <li>ASP.NET</li>
     <li>Lua</li>
     <li>JavaScript</li>
+    <li>NodeJs - Npm</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
@@ -42,7 +43,6 @@
     <li>Certbot</li>
     <li>Venv</li>
     <li>SSH</li>
-    <li>NodeJs - Npm</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
