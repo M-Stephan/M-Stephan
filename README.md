@@ -9,6 +9,13 @@
 ---
 
 ## 🛠️ Stack principale
+<details><summary><strong>Plateforme</strong></summary>
+  <ul>
+    <li>Debian 11 / Ubuntu 22</li>
+    <li>Windows</li>
+  </ul>
+</details>
+
 <details><summary><strong>Langages & Frameworks</strong></summary>
   <ul>
     <li>C#</li>
@@ -30,15 +37,19 @@
     <li>xUnit</li>
     <li>Spectre.Console</li>
     <li>Docker | Docker-Compose</li>
+    <li>SystemD</li>
+    <li>Pm2</li>
+    <li>Certbot</li>
+    <li>Venv</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
-    <li>Xampp / MariaDB / heidi sql / phpMyAdmin / SQL Server</li>
+    <li>MariaDB / MySql / SQL Server / heidi sql / phpMyAdmin / Xampp </li>
     <li>ERD / MCD / MPD</li>
   </ul>
 </details>
 
-<details><summary><strong>FiveM & Systèmes (Hobby)</strong></summary>
+<details><summary><strong>Jeux Video & Panels Système (Hobby)</strong></summary>
   <ul>
     <li>ESX Legacy</li>
     <li>OverExtended | (ox_lib, ox_inventory)</li>
@@ -46,8 +57,9 @@
     <li>ox_lib</li>
     <li>ox_inventory</li>
     <li>Pterodactyl</li>
-    <li>Debian 11 / Ubuntu 22</li>
+    <li>Ajenti</li>
     <li>TxAdmin</li>
+    
   </ul>
 </details>
 
