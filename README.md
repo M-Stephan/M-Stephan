@@ -23,12 +23,12 @@
     <li>ASP.NET</li>
     <li>Lua</li>
     <li>JavaScript</li>
-    <li>NodeJs - Npm</li>
+    <li>Node.js / npm</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
     <li>Python</li>
-    <li>Base php</li>
+    <li>Base PHP</li>
     <li>Base Java</li>
   </ul>
 </details>
@@ -38,15 +38,15 @@
     <li>xUnit</li>
     <li>Spectre.Console</li>
     <li>Docker | Docker-Compose</li>
-    <li>SystemD</li>
-    <li>Pm2</li>
+    <li>systemd</li>
+    <li>PM2</li>
     <li>Certbot</li>
     <li>Venv</li>
     <li>SSH</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
-    <li>MariaDB / MySql / SQL Server / heidi sql / phpMyAdmin / Xampp </li>
+    <li>MariaDB / MySQL / SQL Server / HeidiSQL / phpMyAdmin / XAMPP </li>
     <li>ERD / MCD / MPD</li>
   </ul>
 </details>
@@ -55,13 +55,10 @@
   <ul>
     <li>ESX Legacy</li>
     <li>OverExtended | (ox_lib, ox_inventory)</li>
-    <li>NUI</li>
-    <li>ox_lib</li>
-    <li>ox_inventory</li>
+    <li>NUI / RageUi</li>
     <li>Pterodactyl</li>
     <li>Ajenti</li>
     <li>TxAdmin</li>
-    
   </ul>
 </details>
 
@@ -70,9 +67,23 @@
 ## 🎯 Objectifs
 
 - 💪 Développeur **full-stack** polyvalent et passionné
-- 🎮 Travailler dans le **jeu vidéo**, le **développement logiciel**, ou un domaine qui me fait vibrer
+- 🎮 Travailler dans le **jeu vidéo**, le **développement logiciel**, ou un domaine qui me fait vibrer!
 - 🚀 Apprendre sans relâche (même à 2h du mat 😅)
-- 💼 Faire carrière dans l’univers du **code** et contribuer à des projets open source
+- 💼 Faire carrière dans l’univers du **code** et contribuer à des projets concrets
+
+---
+
+## 🚀 Projets déployés
+
+- [Vcard Project](https://m-stephan.github.io/1.TRAIL-1.The-Field-5.HTML-CSS-1.V-card/)
+- [Todo List](https://m-stephan.github.io/2.PROJECTS-2.To-do-list/)
+- [DateTime](https://m-stephan.github.io/1.TRAIL-1.The-Field-8.Dates-ex4/)
+- [Wack-a-mole](https://m-stephan.github.io/1.TRAIL-1.The-Field-7.Timeout-Intervals/)
+- [Weather App](https://m-stephan.github.io/2.PROJECTS-3.Weather-app/)
+- [The collection](https://m-stephan.github.io/2.PROJECTS-1.TheCollection/)
+- [The collection 2](https://m-stephan.github.io/1.TRAIL-2.The-Hill-9.Asynchrone-Extra-TheColletion/)
+- [API Rest (Swagger)](http://83.150.218.25:5000/swagger/index.html)
+- [API Rest (Scalar)](http://83.150.218.25:5000/scalar/)
 
 ---
 
