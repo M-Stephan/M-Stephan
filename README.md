@@ -1,10 +1,10 @@
 # 👋 Salut, moi c'est Stephan M.
-
 🎓 Actuellement en formation **Software Developer** chez [BeCode](https://becode.org) — *Charleroi (Belgique)*  
 💻 Passionné par le **développement logiciel**, l’apprentissage continu et le monde open source  
 🎸 Fan de **musique rock & guitare** (AC/DC, Metallica, U2 ❤️... et bien d'autres !)  
 🏍️ Motard dans l’âme sur ma **Kawasaki ER6n**  
-🎮 Développeur de ressources **FiveM RP** & projets **.NET / ASP.NET / C#**
+🎮 Développeur de ressources **FiveM RP** & projets **.NET / ASP.NET / C#**</br>
+💼 Support **Yorkhost** : assistance technique et gestion d’infrastructures serveur [yorkhost.fr](https://yorkhost.fr/fr)
 
 ---
 
@@ -110,7 +110,6 @@ Projets démontrant des compétences avancées en **full-stack, DevOps et admini
 
 ## 📬 En savoir plus
 - **Information**: Vous pourrez retrouver la totalité du Track BeCode [ici](https://github.com/M-Stephan/CRL-Wozniak-1) et les réponses (mon travail) [ici](https://github.com/M-Stephan/CRL-Wozniak-1-Answers)
-- 💼 **Support – Yorkhost** : assistance technique et gestion d’infrastructures serveur [yorkhost.fr](https://yorkhost.fr/fr)
 - 💬 **Discord** : `neodarkcrow.` *(inclut le point final)*
 - 📧 **Mail** : [martin.stephan9218@gmail.com](mailto:martin.stephan9218@gmail.com)  
 - 🧑‍💻 **GitHub** : [M-Stephan](https://github.com/M-Stephan)
