@@ -11,7 +11,7 @@
 ## 🛠️ Stack principale
 <details><summary><strong>Plateforme</strong></summary>
   <ul>
-    <li>Debian 11 / Ubuntu 22</li>
+    <li>Linux - Debian 11 / Ubuntu 22</li>
     <li>Windows</li>
   </ul>
 </details>
@@ -41,6 +41,8 @@
     <li>Pm2</li>
     <li>Certbot</li>
     <li>Venv</li>
+    <li>SSH</li>
+    <li>NodeJs - Npm</li>
     <li>Git | GitHub | GitHub Actions/Pages</li>
     <li>MVC, JWT Token, Swagger/Scalar API</li>
     <li>Vite, React, DOM, Razor, Blazor</li>
