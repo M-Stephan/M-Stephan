@@ -51,7 +51,7 @@
   </ul>
 </details>
 
-<details><summary><strong>Jeux Video & Panels Système (Hobby)</strong></summary>
+<details><summary><strong>Jeux vidéo & Panels Système (Hobby)</strong></summary>
   <ul>
     <li>ESX Legacy</li>
     <li>OverExtended | (ox_lib, ox_inventory)</li>
@@ -74,6 +74,7 @@
 ---
 
 ## 🚀 Projets déployés
+> Projets accessibles en ligne via GitHub Pages et API REST hébergée sur VPS Linux (Swagger / Scalar)
 
 - [Vcard Project](https://m-stephan.github.io/1.TRAIL-1.The-Field-5.HTML-CSS-1.V-card/)
 - [Todo List](https://m-stephan.github.io/2.PROJECTS-2.To-do-list/)
