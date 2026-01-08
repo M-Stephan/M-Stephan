@@ -24,12 +24,12 @@
   <ul>
     <li>C#</li>
     <li>JavaScript</li>
-    <li>Python</li>
-    <li>SQL</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>Lua</li>
-    <li><i>Notions de base :</i> PHP, Java</li>
+    <li>SQL</li>
+    <li>Markdown</li>
+    <li><i>Notions de base :</i> PHP, Java, Python</li>
   </ul>
 </details>
 
