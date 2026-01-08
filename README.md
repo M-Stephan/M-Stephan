@@ -1,16 +1,23 @@
 # 👋 Salut, moi c'est Stephan M.
-🎓 Actuellement en recherche d'emploi en tant que **Fullstack Software Developer .NET** &#8212; formé à [BeCode](https://becode.org) — *Charleroi (Belgique)*  
+🎓 Actuellement en recherche d'emploi en tant que **Fullstack Software Developer .NET** &#8212; formé à [BeCode](https://becode.org) — *Charleroi (Belgique)*
+
 💼 Support Technique &#8212; assistance et gestion d’infrastructures serveur chez [yorkhost.fr](https://yorkhost.fr/fr)  
+🎮 Dans mon temps libre je crée et maintiens des serveurs de jeux videos sous système VPS Linux (Palworld, FiveM, Roblox, Minecraft)**  
 
-💻 Passionné par le **développement logiciel**, l’apprentissage continu et le monde open source  
-🎮 Développeur de ressources **FiveM RP** & projets **.NET / ASP.NET / C#**  
-
-🎸 Fan de **musique rock & guitare** (AC/DC, Metallica, U2 ❤️... et bien d'autres !)  
-🏍️ Motard dans l’âme sur ma **Kawasaki ER6n**  
+💻 Passionné de **développement**, l’apprentissage continu et le monde open source  
+🎸 Fan de musique & guitare _style varié_
 
 ---
 
 ## 🛠️ Technologies
+
+<details>
+  <summary><strong>Systèmes d'Exploitation</strong></summary>
+  <ul>
+    <li>Linux (Debian 11 / Ubuntu 22)</li>
+    <li>Windows</li>
+  </ul>
+</details>
 
 <details>
   <summary><strong>Langages de Programmation</strong></summary>
@@ -73,14 +80,6 @@
 </details>
 
 <details>
-  <summary><strong>Systèmes d'Exploitation</strong></summary>
-  <ul>
-    <li>Linux (Debian 11 / Ubuntu 22)</li>
-    <li>Windows</li>
-  </ul>
-</details>
-
-<details>
   <summary><strong>Hobby : Développement Jeux Vidéo & Panels</strong></summary>
   <ul>
     <li><i>FiveM :</i> ESX Legacy, OverExtended (ox_lib, ox_inventory)</li>
@@ -88,8 +87,6 @@
     <li><i>Panels de gestion :</i> Pterodactyl, Ajenti, TxAdmin</li>
   </ul>
 </details>
-
-
 ---
 
 ## 🚀 Projets déployés
