@@ -10,59 +10,85 @@
 
 ---
 
-## 🛠️ Stack principale
-<details><summary><strong>Plateforme</strong></summary>
+## 🛠️ Technologies
+
+<details>
+  <summary><strong>Langages de Programmation</strong></summary>
   <ul>
-    <li>Linux - Debian 11 / Ubuntu 22</li>
+    <li>C#</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Lua</li>
+    <li><i>Notions de base :</i> PHP, Java</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Frameworks & Environnements d'Exécution</strong></summary>
+  <ul>
+    <li>.NET / ASP.NET</li>
+    <li>Node.js / npm</li>
+    <li>React</li>
+    <li>Blazor</li>
+    <li>Razor</li>
+    <li>Vite</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Bases de Données & Données</strong></summary>
+  <ul>
+    <li>MariaDB / MySQL</li>
+    <li>SQL Server</li>
+    <li>HeidiSQL / phpMyAdmin / XAMPP</li>
+    <li><i>Conception :</i> ERD / MCD / MPD</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Outils, Déploiement & DevOps</strong></summary>
+  <ul>
+    <li>Git | GitHub | GitHub Actions/Pages</li>
+    <li>Docker | Docker-Compose</li>
+    <li>SSH</li>
+    <li>systemd</li>
+    <li>PM2</li>
+    <li>Certbot</li>
+    <li><i>Tests & Utilitaires :</i> xUnit, Spectre.Console</li>
+    <li><i>Environnement Python :</i> Venv</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Concepts & Architectures</strong></summary>
+  <ul>
+    <li>Architecture MVC</li>
+    <li>API (Swagger/Scalar)</li>
+    <li>Authentification (JWT Token)</li>
+    <li>Manipulation du DOM</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Systèmes d'Exploitation</strong></summary>
+  <ul>
+    <li>Linux (Debian 11 / Ubuntu 22)</li>
     <li>Windows</li>
   </ul>
 </details>
 
-<details><summary><strong>Langages & Frameworks</strong></summary>
+<details>
+  <summary><strong>Hobby : Développement Jeux Vidéo & Panels</strong></summary>
   <ul>
-    <li>C#</li>
-    <li>.NET</li>
-    <li>ASP.NET</li>
-    <li>Lua</li>
-    <li>JavaScript</li>
-    <li>Node.js / npm</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>SQL</li>
-    <li>Python</li>
-    <li>Base PHP</li>
-    <li>Base Java</li>
+    <li><i>FiveM :</i> ESX Legacy, OverExtended (ox_lib, ox_inventory)</li>
+    <li><i>Interfaces :</i> NUI / RageUI</li>
+    <li><i>Panels de gestion :</i> Pterodactyl, Ajenti, TxAdmin</li>
   </ul>
 </details>
 
-<details><summary><strong>Technologies & Outils</strong></summary>
-  <ul>
-    <li>xUnit</li>
-    <li>Spectre.Console</li>
-    <li>Docker | Docker-Compose</li>
-    <li>systemd</li>
-    <li>PM2</li>
-    <li>Certbot</li>
-    <li>Venv</li>
-    <li>SSH</li>
-    <li>Git | GitHub | GitHub Actions/Pages</li>
-    <li>MVC, JWT Token, Swagger/Scalar API</li>
-    <li>Vite, React, DOM, Razor, Blazor</li>
-    <li>MariaDB / MySQL / SQL Server / HeidiSQL / phpMyAdmin / XAMPP </li>
-    <li>ERD / MCD / MPD</li>
-  </ul>
-</details>
-
-<details><summary><strong>Jeux vidéo & Panels Système (Hobby)</strong></summary>
-  <ul>
-    <li>ESX Legacy</li>
-    <li>OverExtended | (ox_lib, ox_inventory)</li>
-    <li>NUI / RageUi</li>
-    <li>Pterodactyl</li>
-    <li>Ajenti</li>
-    <li>TxAdmin</li>
-  </ul>
-</details>
 
 ---
 
